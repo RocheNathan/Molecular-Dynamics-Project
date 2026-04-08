@@ -1,9 +1,4 @@
 # Molecular-Dynamics-Project
-This is a solid move. Having a clean `README.md` is the best way to keep track of your own progress, especially when you start branching into exotic potentials like the LJG. 
-
-Here is a structured, professional README for your repository.
-
----
 
 # Quasicrystal Project: Phase 1 (Lennard-Jones Annealing)
 
